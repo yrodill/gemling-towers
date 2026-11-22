@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#111816"/>
+  <circle cx="256" cy="276" r="190" fill="#172120"/>
+  <!-- tour crénelée -->
+  <path d="M166 150h40v36h30v-36h40v36h30v-36h40v96l-22 18v150h-136v-150l-22-18z" fill="#e8c15a"/>
+  <path d="M188 264h136v14h-136z" fill="#b8913a"/>
+  <path d="M232 414v-64a24 24 0 0 1 48 0v64z" fill="#111816"/>
+  <!-- gemme -->
+  <path d="M256 196l26 26-26 34-26-34z" fill="#7cc6e8"/>
+  <path d="M256 196l26 26h-52z" fill="#bfe6f6"/>
+  <!-- sol -->
+  <path d="M110 414h292v18h-292z" fill="#2e3d3a"/>
+</svg>
