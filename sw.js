@@ -2,7 +2,7 @@
 /* Gemling Towers : jouable hors ligne une fois installé (08/11, docs/V1.md « Jouer sur téléphone »).
    La page passe par le réseau d'abord (une nouvelle version arrive dès qu'on est en ligne), le cache sinon ;
    les polices et les icônes viennent du cache et se rafraîchissent en arrière-plan. */
-const CACHE = "gemling-v0.5.0-23-11c";
+const CACHE = "gemling-v0.5.0-24-11";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", (e) => {
